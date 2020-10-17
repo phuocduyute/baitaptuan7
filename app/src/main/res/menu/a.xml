@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Login"
+        android:icon="@drawable/login"
+        android:id="@+id/home_"
+        />
+    <item android:title="customlist"
+        android:icon="@drawable/list"
+        android:id="@+id/customlist_"
+        />
+    <item android:title="Profile"
+        android:icon="@drawable/account"
+        android:id="@+id/profile_"
+        />
+</menu>
